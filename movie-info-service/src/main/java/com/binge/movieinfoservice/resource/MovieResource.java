@@ -1,4 +1,4 @@
-package com.binge.movieinfoservice.model.resource;
+package com.binge.movieinfoservice.resource;
 
 import com.binge.movieinfoservice.model.Movie;
 import org.springframework.web.bind.annotation.PathVariable;
